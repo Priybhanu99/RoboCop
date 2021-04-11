@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925705481465",
+    "project_id": "robocop-2-b4ff8",
+    "storage_bucket": "robocop-2-b4ff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925705481465:android:cf9bb07385307b29500628",
+        "android_client_info": {
+          "package_name": "com.example.robocop20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925705481465-93ru3d7eq6cmsttkthmcfqvt8luuffhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUClzfrlBFJ_KJPJqEpS3_QoiBrl5S2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925705481465-93ru3d7eq6cmsttkthmcfqvt8luuffhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
